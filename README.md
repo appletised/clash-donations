@@ -1,5 +1,5 @@
 # clash-donations
-Clash of clans donation bot using ADB (meant to work with Clashfarmer)
+Clash of Clans donation bot using ADB (meant to work with Clashfarmer)
 
 How to use?:
 
