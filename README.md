@@ -7,4 +7,5 @@ How to use?:
 2. Login to your CoC donation account.
 3. Grab your ADB Port and enter it into the program.
 4. Choose your troops and amount (THIS MUST MATCH YOUR IN GAME REQUEST)
-5. LET IT RIP
+5. OPEN THE GAME
+6. LET IT RIP
